@@ -1,4 +1,4 @@
-package com.google;
+package com.elgoog;
 
 import lombok.Getter;
 import lombok.Setter;

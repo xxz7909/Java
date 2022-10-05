@@ -1,6 +1,6 @@
-package com.google.main;
+package com.elgoog.main;
 
-import com.google.service.StudentService;
+import com.elgoog.service.StudentService;
 
 import java.sql.SQLException;
 import java.util.Scanner;

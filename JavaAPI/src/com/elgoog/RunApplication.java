@@ -1,4 +1,4 @@
-package com.google;
+package com.elgoog;
 
 import java.util.Scanner;
 

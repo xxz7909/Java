@@ -1,7 +1,7 @@
-package com.google.service;
+package com.elgoog.service;
 
-import com.google.model.Student;
-import com.google.util.JDBCUtils;
+import com.elgoog.model.Student;
+import com.elgoog.util.JDBCUtils;
 
 import java.sql.Connection;
 import java.sql.PreparedStatement;

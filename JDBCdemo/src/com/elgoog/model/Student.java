@@ -1,8 +1,7 @@
-package com.google.model;
+package com.elgoog.model;
 
 import lombok.Getter;
 import lombok.Setter;
-import lombok.ToString;
 
 @Getter
 @Setter

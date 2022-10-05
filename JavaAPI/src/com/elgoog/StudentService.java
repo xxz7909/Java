@@ -1,4 +1,4 @@
-package com.google;
+package com.elgoog;
 
 //Service
 public class StudentService {

@@ -1,4 +1,4 @@
-package com.google.util;
+package com.elgoog.util;
 
 import java.io.InputStream;
 import java.sql.DriverManager;

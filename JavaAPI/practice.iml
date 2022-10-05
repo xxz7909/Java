@@ -5,9 +5,9 @@
     <content url="file://$MODULE_DIR$">
       <sourceFolder url="file://$MODULE_DIR$/resources" type="java-resource" />
       <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
-      <excludeFolder url="file://$MODULE_DIR$/src/com/google/main" />
-      <excludeFolder url="file://$MODULE_DIR$/src/com/google/service" />
       <excludeFolder url="file://$MODULE_DIR$/src/com/JDBC/Test" />
+      <excludeFolder url="file://$MODULE_DIR$/src/com/elgoog/main" />
+      <excludeFolder url="file://$MODULE_DIR$/src/com/elgoog/service" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
