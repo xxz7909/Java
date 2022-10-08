@@ -1,4 +1,4 @@
-package com.ycptu.demo;
+package com.xixi;
 
 public class Main {
 

@@ -1,4 +1,4 @@
-package com.ycptu.tools;
+package com.xixi.tools;
 
 public class Student {
 }

@@ -1,4 +1,4 @@
-package com.ycptu.bean;
+package com.xixi.bean;
 
 public final class Labrador extends Dogs {
 //    @Override

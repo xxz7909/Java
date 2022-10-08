@@ -1,4 +1,4 @@
-package com.ycptu.bean;
+package com.xixi.bean;
 
 public class Cats extends Pet {
     public Cats() {

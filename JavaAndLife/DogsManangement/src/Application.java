@@ -1,5 +1,5 @@
-import com.ycptu.bean.Human;
-import com.ycptu.bean.Pet;
+import com.xixi.bean.Human;
+import com.xixi.bean.Pet;
 
 public class Application {
     public static void main(String[] args) {
